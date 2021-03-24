@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rizonn
 - 👀 I’m interested in becoming Python masterclass programmer
-- 🌱 I’m currently learning PYTHON <3
+- 🌱 I’m currently learning PYTHON 
 - 💞️ I’m looking to collaborate on ANY PYTHON PROJECT
 - 📫 How to reach me ...
 
